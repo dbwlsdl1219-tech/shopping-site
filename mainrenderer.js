@@ -1,4 +1,5 @@
-const VERSION = "20260406v1.0.1";
+const VERSION = "20260407";
+fetch(`./data/items.json?v=${VERSION}`);
 
 async function render() {
   const list = document.getElementById('list');
