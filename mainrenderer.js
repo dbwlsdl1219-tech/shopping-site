@@ -1,4 +1,4 @@
-const VERSION = "20260406";
+const VERSION = "20260406v1.0.1";
 
 async function render() {
   const list = document.getElementById('list');
