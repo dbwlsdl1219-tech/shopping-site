@@ -35,7 +35,7 @@ export const items = [
     price: ""
   },
   {
-    name: "변기 탈취제",
+    name: "고바야시 쇼슈겐",
     desc: "똥찍 (복숭아향으로만 사오기)",
     price: ""
   },
