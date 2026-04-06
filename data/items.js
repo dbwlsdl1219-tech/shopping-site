@@ -15,7 +15,7 @@ export const items = [
     price: ""
   },
   {
-    name: "브레스케어",
+    name: "고바야시 브레스케어",
     desc: "핑크&그린 둘다",
     price: ""
   },
